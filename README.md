@@ -1,18 +1,16 @@
-# The-Rise-of-Protests-and-Public-Unrest
-Tracks the frequency, locations, and causes of protest events in Kenya, compare to global peer countries, to understand whether Kenya’s unrest is exceptional, and what triggers are most associated with protest surges.
+# The Rise of Protests and Public Unrest: Kenya in a Global Context
 
-## Tools to use?
-1. Pandas
-2. Seaborn
-3. datetime
-4. matplotlib
-   
-## What insights do i want to discover?
-- How many demos occur per year in Kenya
-- Which counties have the highest number of demos
-- Main causes
-- Any fatalities and injuries?
-- How the protests compare to other countries
+### Objective
+This analysis explores protest activity in Kenya , comparing trends to peer countries, and investigating correlations with economic and political indicators.
 
-  ### Impact
-  `
+### Key Questions
+- How many protests occur per year in Kenya?
+- Which counties experience the most unrest?
+- Do protests rise during election years, tax hikes or inflation surges?
+- How does Kenya compare globally in protest frequency?
+
+### Data Sources
+- ACLED (Armed Conflict Location & Event Data Project)
+- Kenya National Bureau of Statistics (Inflation, Unemployment)
+<!-- - World Bank (GDP, Inflation) -->
+<!-- - Custom CSV for election years -->

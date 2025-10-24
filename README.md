@@ -14,3 +14,6 @@ This analysis explores protest activity in Kenya , comparing trends to peer coun
 - Kenya National Bureau of Statistics (Inflation, Unemployment)
 <!-- - World Bank (GDP, Inflation) -->
 <!-- - Custom CSV for election years -->
+
+
+https://kenya-dissent-pulse.lovable.app

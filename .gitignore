@@ -1,0 +1,5 @@
+# Environment variables
+ignore .env
+
+# Virtual environments
+ignore .venv/

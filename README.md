@@ -107,7 +107,7 @@ The primary visualizations generated (and saved to `output/`) are:
 * Compare protest *intensity* (Fatalities per Event) across counties or drivers.
 
 ## License
-This project is licensed under the MIT License - see the `LICENSE` file for details (if you create one).
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Contact
 
